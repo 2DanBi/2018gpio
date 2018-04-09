@@ -1,0 +1,21 @@
+{
+  "name": "blink-led",
+  "version": "0.1.0",
+  "description": "test gpio with 1 led",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "led",
+    "gpio",
+    "rasberrypi"
+  ],
+  "author": "danbi9612@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "onoff": "^3.0.2"
+  }
+}
